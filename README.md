@@ -1,2 +1,3 @@
-# Obstacle-Avoidance-Robot
+ Obstacle-Avoidance-Robot
+ 
 Introduction to Obstacle Avoidance Robot An Obstacle Avoidance Robot is an intelligent robot, which can automatically sense and overcome obstacles on its path. It contains of a Microcontroller to process the data, and Ultrasonic sensors to detect the obstacles on its path.  Obstacle avoidance is one of the most important aspects of mobile robotics. Without it robot movement would be very restrictive and fragile. This tutorial explains obstacle avoidance using ultrasonics sensors. This project also presents a dynamic steering algorithm which ensures that the robot does n't have to stop in front of an obstacle which allows robot to navigate smoothly in an unknown environment, avoiding collisions.
